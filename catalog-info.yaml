@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: prisma-cloud-devsecops-workshop
+  annotations:
+    github.com/project-slug: zuojun-ning/prisma-cloud-devsecops-workshop
+spec:
+  type: other
+  lifecycle: unknown
+  owner: zuojun-ning
